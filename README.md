@@ -1,32 +1,12 @@
 <!-- NEOFETCH-CARD:START -->
-```
-            -*###%%%%%%%%%%%%%%%%%%*-             dhruv@pawar
-          .=*##%%%%%%%@@@@@@@@@@@@@%%=            ───────────────────────────────────────────
-        :=+**##%@@@@@@@@@@@@@@@@@@@@@%-           ▪ OS: ............. Windows 11 · Ubuntu · WSL2
-    .=*+###%%%%@@@@@@@@@@@@@@@@@@@@@@@#           ▪ Host: ........... AI Solutions & Gen-AI Engineer
-    .#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%.          ▪ Location: ....... India 🇮🇳
-    :+%@@%%%%%%#######%%@@@@@@@@@@@@@@@-          ▪ IDE: ............ VS Code · PyCharm · Jupyter
-     :*##==++*******#####%%@@@@@@@@@@@@*
-     .---:===*###%%%%%#####%@@@@@@%%%#%%.         ▪ Languages.Prog: . Python, Java, C, R, JavaScript
-       .=+####%@@##%%%%%####%@@@%%@%#%##.         ▪ Languages.AI: ... PyTorch, TensorFlow, LangChain
-       -###*#%%%@%*%%#######%@@%#%@@%#%+          ▪ Languages.Real: . English, Hindi
-    :.  +#++**####***########@@%#%%###%-
-    ::  .-=+***##***#######%%%@%%%#*%@*           ▪ ML / GenAI: ..... LLMs, NLP, RAG, Multi-Agent RL
-     .:::-+#%%%%%%%%%%%%%%%%%%@%%%##@#.           ▪ Cloud / MLOps: .. AWS, GCP, Docker, K8s, MLflow
-       ..:###%%%%%@%%%%%%%%%%%%%%###%:            ▪ Data: ........... Pandas, NumPy, Spark, Postgres
-     ... .=*##%%%%%%%%%%%%%%%%%%%###=
-    .......++*%%%##%%%%%%@@@@@%%%##*:             ── Contact ─────────────────────────────────
-           .-*######%%%@@@@@@@%%%##*:             ▪ Email: .......... dupawar2004@gmail.com
-            .-*#%%%%@@@@@@@@@@%%%###-             ▪ LinkedIn: ....... in/dhruv-pawar17
-             =%@@@@@@@@@@@@@%%%%%###=             ▪ GitHub: ......... DHRUV1817
-   .......... ..:=+#@@@@@@@%%%%#####*=+=-.
- ..............:*%-+#%@@@@@%%%%######**+##-       ── Now ─────────────────────────────────────
-..............-+%@++#%%%%@@%%%%#########%@%+:.    ▪ Focus: .......... Advanced AI Reasoning System Pro
-        ..:--=++#@%%#%%%%%%%%%%%########@@%%#+    ▪ Building: ....... Multi-Agent Orchestration
-==---::=+*%@+++*#@%#%%%%%%%%%%%####***+%@@@%%%    ▪ Superpower: ..... Turning AI research into products
-##**#%%##@%%*****%@*=*##########****+++@@@@@%%
-+*%@@@%#@@%@#****%@@*==#%#***#****###%@@@@@@@@
-```
+<div align="center">
+  <a href="https://github.com/DHRUV1817/DHRUV1817">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHRUV1817/DHRUV1817/main/dark_mode.svg">
+      <img alt="Dhruv Pawar" src="https://raw.githubusercontent.com/DHRUV1817/DHRUV1817/main/light_mode.svg" width="100%">
+    </picture>
+  </a>
+</div>
 <!-- NEOFETCH-CARD:END -->
 
 <div align="center">
