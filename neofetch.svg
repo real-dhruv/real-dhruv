@@ -1,57 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 700" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" role="img" aria-label="neofetch card for Dhruv Pawar">
-<rect width="1080" height="700" rx="16" fill="#0d1117"/>
-<rect x="14" y="14" width="1052" height="672" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 740" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" role="img" aria-label="neofetch card for Dhruv Pawar">
+<rect width="1080" height="740" rx="16" fill="#0d1117"/>
+<rect x="14" y="14" width="1052" height="712" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
 <circle cx="44" cy="46" r="7" fill="#ff5f56"/>
 <circle cx="70" cy="46" r="7" fill="#ffbd2e"/>
 <circle cx="96" cy="46" r="7" fill="#27c93f"/>
 <text x="540" y="52" text-anchor="middle" font-size="15" fill="#8b949e">real-dhruv / README.md</text>
 <text x="52" y="94" font-size="17" xml:space="preserve"><tspan fill="#7ee787">dhruv@github</tspan><tspan fill="#c9d1d9"> ~ % </tspan><tspan fill="#7ee787">neofetch</tspan></text>
-<text font-size="12.5" fill="#c9d1d9" xml:space="preserve">
+<text font-size="11" fill="#c9d1d9" xml:space="preserve">
 <tspan x="52" y="128.0"></tspan>
-<tspan x="52" y="142.0"></tspan>
-<tspan x="52" y="156.0"></tspan>
-<tspan x="52" y="170.0"></tspan>
-<tspan x="52" y="184.0"></tspan>
-<tspan x="52" y="198.0">                        ....,.</tspan>
-<tspan x="52" y="212.0">                   .;x%##@@@@###%/;,</tspan>
-<tspan x="52" y="226.0">               .,/%#@@@@@@@@@@@@@@@@#/.</tspan>
-<tspan x="52" y="240.0">            .;x%#######@@@@@@@@@@@@@@@@#;</tspan>
-<tspan x="52" y="254.0">          ;x%########@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="52" y="268.0">         ,#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</tspan>
-<tspan x="52" y="282.0">         /@@@@@@@#%%xxx%%#@@@@@@@@@@@@@@@@</tspan>
-<tspan x="52" y="296.0">         %@@@@@#/.......,;x#@@@@@@@@@@@@@@</tspan>
-<tspan x="52" y="310.0">         ;%#@@%/    ....,,,;///xxxx#@@@@@@</tspan>
-<tspan x="52" y="324.0">         .;%%/;     ...,,...,,,,;;;x%#@@@@</tspan>
-<tspan x="52" y="338.0">         ./x; .;x%##x/;;,,;/x%####x/,;/#@@</tspan>
-<tspan x="52" y="352.0">         ,;/,.,/x%#@@#%x/x%%#@@##%x//,,x##</tspan>
-<tspan x="52" y="366.0">         ;;x,./%%x@@##//;x/%###@%##x;/;%#%</tspan>
-<tspan x="52" y="380.0">         %./. .,;/xx/,,,,//;/x%%xx//;;.%%x</tspan>
-<tspan x="52" y="394.0">         //x     ...,.. ,,;,;,,,,...,,,%x#</tspan>
-<tspan x="52" y="408.0">         ;//,   .,;/,..,;;;,//;,,,,,,;/%xx</tspan>
-<tspan x="52" y="422.0">          ..,,,,;xx;,x%%%##%//xx//;//;/x/</tspan>
-<tspan x="52" y="436.0">          ,;/,;;;%#%/x%%%%##%#@@%/xx//x//</tspan>
-<tspan x="52" y="450.0">           ;/;;;,x%/;,;///xxx%%#x/xxx%;,</tspan>
-<tspan x="52" y="464.0">           /;/x/;;;..,/x%%x/;;/xxx%%%/,,</tspan>
-<tspan x="52" y="478.0">            ;#xx%/, ..,/xx/;;;/xx%#%/,,</tspan>
-<tspan x="52" y="492.0">             @;,x#%/,;/x/xxxxx%###xx@;</tspan>
-<tspan x="52" y="506.0">              ;,;x%##@@@@@@@@@@#%x/#@</tspan>
-<tspan x="52" y="520.0">               .;;/x%##@@@@@#%%%x/x@</tspan>
-<tspan x="52" y="534.0">              @/;;//x%x%%#%%%%%xx/@@@</tspan>
-<tspan x="52" y="548.0">           , %#%;,...,;////;;,,,./##x,;x</tspan>
-<tspan x="52" y="562.0">          /;./##x//;;,;;/;;;;,,,/###x,;xx</tspan>
-<tspan x="52" y="576.0">        x//;.;%%%xx/xxxxx//////x%###/;/%%%x</tspan>
-<tspan x="52" y="590.0">       %//;;,;x%%%/;;/xxx///x/;/x%xx//x%%%x/</tspan>
-<tspan x="52" y="604.0">      #%;/;;/%##x%x/..,,,,;;;;/xxx//xxxx%#xxx</tspan>
-<tspan x="52" y="618.0">     ##xx%%######%%%%/,..,;/xxxxxx////x%#%/xxx</tspan>
-<tspan x="52" y="632.0">    %%%%%%%%%%%#######%/x%%%%x%##x;//x%##%xxx%%</tspan>
-<tspan x="52" y="646.0">    %%%%%%%x%%%%#%%%%#%%%%########%//%##%xx%%%%</tspan>
-<tspan x="52" y="660.0">   %%%%%%%%x%%%%%%#%%%%######%%####%%%##xx%%%%%x</tspan>
-<tspan x="52" y="674.0">   %#%%%%#%xx%%%%#%%%%%%%%%%%%%%%%%%%%##xx%%%%xx</tspan>
+<tspan x="52" y="140.8"></tspan>
+<tspan x="52" y="153.6"></tspan>
+<tspan x="52" y="166.4"></tspan>
+<tspan x="52" y="179.2"></tspan>
+<tspan x="52" y="192.0"></tspan>
+<tspan x="52" y="204.8"></tspan>
+<tspan x="52" y="217.6">                            ;;;mm;</tspan>
+<tspan x="52" y="230.4">                       ;8&amp;&amp;&amp;&amp;@&amp;&amp;&amp;@@&amp;&amp;&amp;88;</tspan>
+<tspan x="52" y="243.2">                    m8&amp;&amp;&amp;&amp;&amp;&amp;&amp;@@@@@@@@@@@&amp;&amp;8</tspan>
+<tspan x="52" y="256.0">                ;m88&amp;&amp;&amp;88&amp;&amp;@@@@@@@@@@@@@@@@@@8</tspan>
+<tspan x="52" y="268.8">             ;m8&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;@@@@@@@@@@@@@@@@@@@@@&amp;8</tspan>
+<tspan x="52" y="281.6">             &amp;@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8</tspan>
+<tspan x="52" y="294.4">            m@@@@@@@&amp;88mmmmm8&amp;@@@@@@@@@@@@@@@@@@</tspan>
+<tspan x="52" y="307.2">            &amp;@@@@@&amp;m          ;8&amp;@@@@@@@@@@@@@@@m</tspan>
+<tspan x="52" y="320.0">            ;&amp;&amp;&amp;@&amp;m             ;;mm8mm8&amp;@@@@@@@8</tspan>
+<tspan x="52" y="332.8">             ;88m                       8&amp;&amp;@@@@@8</tspan>
+<tspan x="52" y="345.6">              m     ;;;           ;mm88   ;m&amp;@@@;</tspan>
+<tspan x="52" y="358.4">             ;;    ;8&amp;@@&amp;8;; ;mm8&amp;&amp;&amp;&amp;8m;;   ;&amp;&amp;&amp;</tspan>
+<tspan x="52" y="371.2">               /  ;8m&amp;&amp;&amp;&amp;8;;;;;m&amp;&amp;&amp;&amp;&amp;8&amp;m    m&amp;&amp;8</tspan>
+<tspan x="52" y="384.0">            ; ;/  ;;;8&amp;88;   ;;;888&amp;&amp;8&amp;8;   ;&amp;m;;8</tspan>
+<tspan x="52" y="396.8">           ;                      ;;;       ;8m; m</tspan>
+<tspan x="52" y="409.6">             m;                             mmm8;</tspan>
+<tspan x="52" y="422.4">                      ;          ;;         m; ;;</tspan>
+<tspan x="52" y="435.2">                     m;  m888&amp;&amp;8;;;m;;  ;  ;;;</tspan>
+<tspan x="52" y="448.0">                    ;8&amp;m;;m8m88888&amp;@&amp;m;;;;;;;;</tspan>
+<tspan x="52" y="460.8">                     8m      ;;;mm888;;;;;m</tspan>
+<tspan x="52" y="473.6">                 ;;        m88;;   ;;;mmmm;</tspan>
+<tspan x="52" y="486.4">             ;  88;m;      ;mm;    ;;m888</tspan>
+<tspan x="52" y="499.2">              ; &amp;/ m8m            ;m8&amp;&amp;mm8</tspan>
+<tspan x="52" y="512.0">                @/  ;8&amp;888&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;8m;&amp;@;</tspan>
+<tspan x="52" y="524.8">                 8   ;m8&amp;@@@@@@@@&amp;88mm;;@@</tspan>
+<tspan x="52" y="537.6">                       ;mmm8&amp;&amp;&amp;888mmm; &amp;@</tspan>
+<tspan x="52" y="550.4">                @@&amp;;    ;mm888888mmm; m@@&amp;m8</tspan>
+<tspan x="52" y="563.2">             8; &amp;@@&amp;8m;;;;m8&amp;888mm;;;m@@@&amp;m8&amp;&amp;</tspan>
+<tspan x="52" y="576.0">           ;     88m;                m888   ;;mm</tspan>
+<tspan x="52" y="588.8">          ;      ;mm;;  ;;;;;       ;m88m   ;mm;</tspan>
+<tspan x="52" y="601.6">        m8;       ;;m;     ;;       ;;;;   ;m;mm ;;</tspan>
+<tspan x="52" y="614.4">       88m      m88m;;;            ;;;;  ; ;;m8; ;;;</tspan>
+<tspan x="52" y="627.2">      888m;;mm88&amp;&amp;&amp;88mmm;       ;;;;;;     ;;88; ;;;m</tspan>
+<tspan x="52" y="640.0">     88mmmmmmmm88888888888; ;;mm;;;m88     mm8m;;;;mmm</tspan>
+<tspan x="52" y="652.8">     8mmmmmmm;;mmmm88mmmm8mmmm888888&amp;&amp;8;  m888;;;mmmmm</tspan>
+<tspan x="52" y="665.6">    8mmmmmmmm;;mmm;mm88m8m88888888888888;;m88m;;mmmmm;;</tspan>
+<tspan x="52" y="678.4">   mmm8mmmmm8;;;mmmmm8mmmmmmmmmmmmmmmmmmmmm88;;mmmmm;;mm</tspan>
+<tspan x="52" y="691.2">   m88m8mmmm8m;;mmmmm8;;;;;mmm;mmmm;mmmmmm88m;;mmmm;;mmm</tspan>
+<tspan x="52" y="704.0">  mm88mmm;mm88m;mmmm8mmmm;;mm;;mmmm;mmmmmm88m;mmmm;;;mmmm</tspan>
 </text>
-<text x="470" y="190" font-size="19" xml:space="preserve"><tspan fill="#ffa657">User:      </tspan><tspan fill="#79c0ff">Dhruv Pawar</tspan></text>
-<text x="470" y="224" font-size="19" xml:space="preserve"><tspan fill="#ffa657">Languages: </tspan><tspan fill="#79c0ff">TypeScript, Python</tspan></text>
-<text x="470" y="258" font-size="19" xml:space="preserve"><tspan fill="#ffa657">Focus:     </tspan><tspan fill="#79c0ff">AI agents, automation</tspan></text>
-<text x="470" y="292" font-size="19" xml:space="preserve"><tspan fill="#ffa657">GitHub:    </tspan><tspan fill="#79c0ff">github.com/real-dhruv</tspan></text>
-<text x="470" y="360" font-size="19" xml:space="preserve"><tspan fill="#ff7b72">GitHub Stats </tspan><tspan fill="#8b949e">----------------------------</tspan></text>
-<text x="470" y="394" font-size="19" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#79c0ff">22</tspan><tspan fill="#8b949e"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#79c0ff">1</tspan><tspan fill="#8b949e"> | </tspan><tspan fill="#ffa657">Commits: </tspan><tspan fill="#79c0ff">228</tspan></text>
+<text x="475" y="200" font-size="19" xml:space="preserve"><tspan fill="#ffa657">User:      </tspan><tspan fill="#79c0ff">Dhruv Pawar</tspan></text>
+<text x="475" y="234" font-size="19" xml:space="preserve"><tspan fill="#ffa657">Languages: </tspan><tspan fill="#79c0ff">TypeScript, Python</tspan></text>
+<text x="475" y="268" font-size="19" xml:space="preserve"><tspan fill="#ffa657">Focus:     </tspan><tspan fill="#79c0ff">AI agents, automation</tspan></text>
+<text x="475" y="302" font-size="19" xml:space="preserve"><tspan fill="#ffa657">GitHub:    </tspan><tspan fill="#79c0ff">github.com/real-dhruv</tspan></text>
+<text x="475" y="370" font-size="19" xml:space="preserve"><tspan fill="#ff7b72">GitHub Stats </tspan><tspan fill="#8b949e">----------------------------</tspan></text>
+<text x="475" y="404" font-size="19" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#79c0ff">22</tspan><tspan fill="#8b949e"> | </tspan><tspan fill="#ffa657">Followers: </tspan><tspan fill="#79c0ff">1</tspan><tspan fill="#8b949e"> | </tspan><tspan fill="#ffa657">Commits: </tspan><tspan fill="#79c0ff">228</tspan></text>
 </svg>
