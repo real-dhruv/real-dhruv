@@ -1,12 +1,48 @@
 <!-- NEOFETCH-CARD:START -->
 <div align="center">
-  <a href="https://github.com/DHRUV1817/DHRUV1817">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DHRUV1817/DHRUV1817/main/dark_mode.svg">
-      <img alt="Dhruv Pawar" src="https://raw.githubusercontent.com/DHRUV1817/DHRUV1817/main/light_mode.svg" width="100%">
-    </picture>
+  <a href="https://github.com/real-dhruv">
+    <img alt="neofetch card for Dhruv Pawar" src="https://raw.githubusercontent.com/real-dhruv/real-dhruv/main/neofetch.svg" width="100%">
   </a>
 </div>
+
+<details>
+<summary><code>dhruv@github ~ % neofetch</code> (plain-text version)</summary>
+
+```text
+                                   ""
+                   l[fnvn\_I       ",,"
+     ,II:"      ;]c&W#@@@@#8q?,      ":"        User:      Dhruv Pawar
+    ^ii>>iiil:ifp&B$M#%@@@@@@%k_><<+_+<>,       Languages: TypeScript, Python
+    !iiii!iiir$WBB8#%W%@@@@@@@@b++-][{11{l      Focus:     AI agents, automation
+   :+++_+~~<_8@@@#&XX&%@@@@@@@@@f<_--]][}<.     GitHub:    github.com/real-dhruv
+  l{(111}}{[|#@@X{+_-[jk#@%%@@@@q<+__-__?+`
+  !))1)1[[[][m8h} "i+??{\fjuM@@@d!i<~?-_?}I     GitHub Stats ------------------
+  I?]]]{1{)}<|u?+1)}??_[\xcrtmW@m>~~_-+_?[>     Repos: 22 | Followers | Commits
+  i-]_~+_-[[?\1<fk#8zfupMMhzt[z#t_]?]?-_~?<.
+  ?)((){[-+_{\([zm8$r/xq$BXhr(wduf}1)){[?-i'
+ :][?[1)\|()r\];~)\[__|(txf(1?uwxu(\t/|||1?"
+ l1(({1((|)11n},:>{]>-{1\[_+-1czc/(\/tttt\(i
+ <\nnxrj//\|(_]??fr1wphmrcf\/tc|\|\/frrnrr\>
+  ]/ffjjjf/ft1\({chrvzpkkMwxxuf|)||/jftjru\I
+ `<{]_+]{|///\\f\/(+)nurfvucwr}(1{)\\/tjnn\+
+ ;?t\?<{)|tjjf/zcr~<1zu\|jmXv[][11|tfrrt\|1~
+  :1ft|}_1((uvrc1bc)rvczwX&zp\)(()|/jxxfff-,
+  <|j//\((jqWbxb]fp&%@@@WXmxWq|tf/ffffxjf/-`
+  l_{|nmuk#%@pf%/(fcpX&hpwxp@hwf(|jrx/|/f)>
+   {wbqd$@%#@hf#MvxrwXXdmvu##pM8pft/ffrrf[,
+   jrhX@@@@%M$u&@MXdb$kdwpM@MwM@8hXufjjf|+
+   |ubM@@@@@&kch@%$&#%B$B&@@BX%@&BW#bxxr{I
+    fzW@@@@%hkd8%%$umwwbp&%8BM%@8%@%@Wm?i
+    {jh@@@@#M#@@@%@Wwud&W#W$&M@@M%@@@@h{'
+     (zB@@@@@@@@@@@@%%@@%@@&&#@%#@@@@Bc)
+      twB@@@@@@@@@@@@@@@@@@@W@@#@@@@Bw|
+       tm&@@@@@@@@@@@@@@@@@@@@@%@@%$m/
+        /ch#@@@@@@@@@@@@@@@@@@@@@Wbc/
+         (np&@@@@@@@@@@@@@@@@@%%&wx(
+           /vp&#@@@@@@@@@@@@@#$pu/
+```
+
+</details>
 <!-- NEOFETCH-CARD:END -->
 
 <div align="center">
