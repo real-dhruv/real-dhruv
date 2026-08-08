@@ -21,7 +21,7 @@ art_lines = open(ASCII_PATH).read().rstrip("\n").split("\n")
 
 W, H = 1080, 700
 ART_X, ART_Y, ART_FS, ART_LH = 52, 128, 12.5, 14
-ST_X, ST_Y, ST_FS, ST_LH = 440, 190, 19, 34
+ST_X, ST_Y, ST_FS, ST_LH = 470, 190, 19, 34
 
 def esc(s):
     return html.escape(s, quote=True)
