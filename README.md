@@ -9,54 +9,26 @@
 <summary><code>dhruv@github ~ % neofetch</code> (plain-text version)</summary>
 
 ```text
-                            ;;;mm;
-                       ;8&&&&@&&&@@&&&88;
-                    m8&&&&&&&@@@@@@@@@@@&&8
-                ;m88&&&88&&@@@@@@@@@@@@@@@@@@8
-             ;m8&&&&&&&&@@@@@@@@@@@@@@@@@@@@@&8
-             &@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@8
-            m@@@@@@@&88mmmmm8&@@@@@@@@@@@@@@@@@@
-            &@@@@@&m          ;8&@@@@@@@@@@@@@@@m
-            ;&&&@&m             ;;mm8mm8&@@@@@@@8
-             ;88m                       8&&@@@@@8
-              m     ;;;           ;mm88   ;m&@@@;
-             ;;    ;8&@@&8;; ;mm8&&&&8m;;   ;&&&
-               /  ;8m&&&&8;;;;;m&&&&&8&m    m&&8
-            ; ;/  ;;;8&88;   ;;;888&&8&8;   ;&m;;8
-           ;                      ;;;       ;8m; m
-             m;                             mmm8;
-                      ;          ;;         m; ;;
-                     m;  m888&&8;;;m;;  ;  ;;;
-                    ;8&m;;m8m88888&@&m;;;;;;;;
-                     8m      ;;;mm888;;;;;m
-                 ;;        m88;;   ;;;mmmm;
-             ;  88;m;      ;mm;    ;;m888
-              ; &/ m8m            ;m8&&mm8
-                @/  ;8&888&&&&&&&&&&&8m;&@;
-                 8   ;m8&@@@@@@@@&88mm;;@@
-                       ;mmm8&&&888mmm; &@
-                @@&;    ;mm888888mmm; m@@&m8
-             8; &@@&8m;;;;m8&888mm;;;m@@@&m8&&
-           ;     88m;                m888   ;;mm
-          ;      ;mm;;  ;;;;;       ;m88m   ;mm;
-        m8;       ;;m;     ;;       ;;;;   ;m;mm ;;
-       88m      m88m;;;            ;;;;  ; ;;m8; ;;;
-      888m;;mm88&&&88mmm;       ;;;;;;     ;;88; ;;;m
-     88mmmmmmmm88888888888; ;;mm;;;m88     mm8m;;;;mmm
-     8mmmmmmm;;mmmm88mmmm8mmmm888888&&8;  m888;;;mmmmm
-    8mmmmmmmm;;mmm;mm88m8m88888888888888;;m88m;;mmmmm;;
-   mmm8mmmmm8;;;mmmmm8mmmmmmmmmmmmmmmmmmmmm88;;mmmmm;;mm
-   m88m8mmmm8m;;mmmmm8;;;;;mmm;mmmm;mmmmmm88m;;mmmm;;mmm
-  mm88mmm;mm88m;mmmm8mmmm;;mm;;mmmm;mmmmmm88m;mmmm;;;mmmm
+dhruv@github ~ % whoami
 
-User:      Dhruv Pawar
+██████╗ ██╗  ██╗██████╗ ██╗   ██╗██╗   ██╗
+██╔══██╗██║  ██║██╔══██╗██║   ██║██║   ██║
+██║  ██║███████║██████╔╝██║   ██║██║   ██║
+██║  ██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝
+██████╔╝██║  ██║██║  ██║╚██████╔╝ ╚████╔╝
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═══╝
+
+> Dhruv Pawar — builds AI agents that ship real work
+
+dhruv@github ~ % neofetch
+
+Role:      AI Engineer
 Languages: TypeScript, Python
 Focus:     AI agents, automation
 GitHub:    github.com/real-dhruv
 
 GitHub Stats ----------------------------
 Repos: 22 | Followers: 1 | Commits: 228
-
 ```
 
 </details>
